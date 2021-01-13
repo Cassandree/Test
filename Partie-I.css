@@ -1,0 +1,33 @@
+.u-section-1 .u-sheet-1 {min-height: 310px}
+.u-section-1 .u-text-1 {font-style: italic; margin: 60px auto 0}
+.u-section-1 .u-text-2 {margin: 20px auto 0}
+.u-section-1 .u-text-3 {margin: 20px 40px 0}.u-section-2 {min-height: 844px}
+.u-section-2 .u-custom-html-1 {min-height: 396px; background-image: none; margin: 0 calc(((100% - 1140px) / 2) + 581px) 0 0}
+.u-section-2 .u-custom-html-2 {min-height: 335px; margin-top: 60px; margin-bottom: 60px; margin-left: 0; width: 651px} 
+
+@media (max-width: 1199px){ .u-section-2 .u-custom-html-1 {height: auto; margin-right: calc(((100% - 940px) / 2) + 381px)}
+.u-section-2 .u-custom-html-2 {width: 570px; margin-right: calc(((100% - 940px) / 2) + 289px); margin-bottom: 0; height: auto} }
+
+@media (max-width: 991px){ .u-section-2 .u-custom-html-1 {margin-right: calc(((100% - 720px) / 2) + 161px)}
+.u-section-2 .u-custom-html-2 {margin-right: calc(((100% - 720px) / 2) + 69px)} }
+
+@media (max-width: 767px){ .u-section-2 .u-custom-html-1 {margin-right: calc(((100% - 540px) / 2))}
+.u-section-2 .u-custom-html-2 {width: 540px; margin-right: calc(((100% - 540px) / 2))} }
+
+@media (max-width: 575px){ .u-section-2 .u-custom-html-1 {margin-right: calc(((100% - 340px) / 2))}
+.u-section-2 .u-custom-html-2 {width: 340px; margin-right: calc(((100% - 340px) / 2))} }.u-section-3 .u-sheet-1 {min-height: 500px}
+.u-section-3 .u-text-1 {font-size: 1rem; margin: 20px 0 0}
+.u-section-3 .u-text-2 {width: 340px; margin: 65px auto 0}
+.u-section-3 .u-text-3 {margin: 20px auto 0}
+.u-section-3 .u-custom-html-1 {min-height: 228px; margin: 30px 570px 0 0}
+.u-section-3 .u-text-4 {margin: 30px auto 60px} 
+
+@media (max-width: 1199px){ .u-section-3 .u-custom-html-1 {width: 570px} }
+
+@media (max-width: 991px){ .u-section-3 .u-custom-html-1 {margin-right: 350px} }
+
+@media (max-width: 767px){ .u-section-3 .u-custom-html-1 {width: 540px; margin-right: 170px} }
+
+@media (max-width: 575px){ .u-section-3 .u-custom-html-1 {width: 340px; margin-right: 0} }.u-section-4 .u-sheet-1 {min-height: 83px}
+.u-section-4 .u-btn-1 {border-style: none; background-image: none; font-weight: 700; align-self: center; margin: 21px 0 0 auto; padding: 8px 28px 8px 27px}
+.u-section-4 .u-btn-2 {border-style: none; background-image: none; font-weight: 700; margin: -42px auto 21px 0; padding: 8px 28px 8px 27px}
